@@ -1,3 +1,14 @@
 p {
     text-wrap: wrap;
 }
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+.designs {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
