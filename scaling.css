@@ -2,7 +2,10 @@ p {
     text-wrap: wrap;
 }
 
-img {
+.references {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
     width: 100%;
     height: 100%;
 }
