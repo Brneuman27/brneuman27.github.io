@@ -1,14 +1,25 @@
 p {
     text-wrap: wrap;
-}
-
-img {
-    width: 20%;
-    height: 15%;
+    text-align: center;
 }
 
 .designs {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+img {
+        width: 20%;
+        height: 15%;
+    }
+}
+
+img {
+    width: 70%;
+    height: auto;
+}
+
+.floorplan {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
