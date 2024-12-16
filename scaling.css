@@ -2,6 +2,20 @@ p {
     text-wrap: wrap;
 }
 
+h1 {
+    text-wrap: wrap;
+    text-align: center;
+    font-size: large;
+    font-size: 45px;
+}
+
+h2 {
+    text-wrap: wrap;
+    text-align: center;
+    font-size: large;
+    font-size: 30px;
+}
+
 .home {
     font-size: 25px;
 }
