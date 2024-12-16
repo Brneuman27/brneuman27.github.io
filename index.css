@@ -4,6 +4,18 @@ p {
     font-size: large;
 }
 
+h2 {
+    text-wrap: wrap;
+    text-align: center;
+    font-size: large;
+}
+
+li {
+    text-wrap: wrap;
+    text-align: center;
+    font-size: large;
+}
+
 .designs {
     display: flex;
     flex-flow: row wrap;
