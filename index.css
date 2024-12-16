@@ -22,6 +22,10 @@ li {
     font-size: large;
 }
 
+.scaling {
+    font-size: 25px;
+}
+
 .designs {
     display: flex;
     flex-flow: row wrap;
