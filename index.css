@@ -4,6 +4,12 @@ p {
     font-size: large;
 }
 
+h1 {
+    text-wrap: wrap;
+    text-align: center;
+    font-size: large;
+}
+
 h2 {
     text-wrap: wrap;
     text-align: center;
