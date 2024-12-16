@@ -2,6 +2,10 @@ p {
     text-wrap: wrap;
 }
 
+.home {
+    font-size: 25px;
+}
+
 .references {
     display: flex;
     flex-flow: row wrap;
