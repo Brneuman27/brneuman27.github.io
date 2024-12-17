@@ -2,6 +2,7 @@ p {
     text-wrap: wrap;
     /*text-align: center;*/
     font-size: large;
+    padding: 10px 50px 10px;
 }
 
 h1 {
