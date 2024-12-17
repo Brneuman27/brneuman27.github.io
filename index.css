@@ -23,19 +23,23 @@ li {
     text-wrap: wrap;
 /*     text-align: center;*/
     font-size: large;
+    padding: 10px 50px 10px;
 }
 
 .scaling {
     font-size: 25px;
+    padding: 10px 50px 10px;
 }
 
 .designs {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    
 }
 
 img {
     width: 30%;
     height: 25%;
+    padding: 10px 50px 10px;
 }
