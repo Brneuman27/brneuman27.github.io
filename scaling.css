@@ -22,3 +22,43 @@ img {
     width: 70%;
     height: 70%;
 }
+h1 {
+    text-wrap: wrap;
+    text-align: center;
+    font-size: large;
+    font-size: 45px;
+}
+
+.home {
+    font-size: 25px;
+}
+
+h1 {
+    text-wrap: wrap;
+    text-align: center;
+    font-size: large;
+    font-size: 45px;
+}
+
+.home {
+    font-size: 25px;
+}
+
+.designs {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+img {
+    width: 55%;
+    height: 55%;
+}
+
+.references {
+    /* display: flex;
+    flex-flow: row wrap;
+    justify-content: center; */
+    width: 70%;
+    height: 70%;
+}
