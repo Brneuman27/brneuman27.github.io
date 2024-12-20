@@ -1,5 +1,5 @@
-var cWidth = 3000; 
-var cHeight = 3000; 
+var cWidth = 1000; 
+var cHeight = 500; 
 
 var fish; 
 
